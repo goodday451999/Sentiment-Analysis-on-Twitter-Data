@@ -3,4 +3,4 @@
 
 **Under the Supervision:** Dr. K.P.Singh, IIIT Allahabad
 
-Teaching Assistants: Upendra Pratap Singh, Daisy Monika Lal
+**Teaching Assistants:** Upendra Pratap Singh, Daisy Monika Lal
